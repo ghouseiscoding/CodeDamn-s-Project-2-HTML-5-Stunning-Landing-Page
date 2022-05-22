@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    align-items: center;
+    background-image: url('bg01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1cb495;
+    opacity: 0.8;
+    
+}
+
+.hero{
+    color: white;
+}
+.footer{
+    margin-top: -100px;
+    color: white;
+}
